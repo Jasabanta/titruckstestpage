@@ -375,7 +375,7 @@ footer{
     .prief-para{
         font-size: 12px !important;
     }
-    search-content {
+    .search-content {
         display: flex;
         background-color: #fff;
         justify-content: space-around;
